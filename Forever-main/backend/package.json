@@ -7,7 +7,7 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "",
+  "author": "Sonu Kumar <sonukumar8789217@gmail.com>",
   "license": "ISC",
   "description": "",
   "dependencies": {

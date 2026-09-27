@@ -24,7 +24,7 @@ const Contact = () => {
         />
 
         <div className="flex flex-col justify-center items-start gap-4">
-          <p className="font-semibold text-altext-gray-600">Our Store</p>
+          <p className="font-semibold text-gray-600">Our Store</p>
           <p className="text-gray-500">
           SVNIT Campus, Athwa
             <br />
@@ -32,10 +32,13 @@ const Contact = () => {
           </p>
 
           <p className="text-gray-800">
+            Contact: <span className="text-gray-500">Sonu Kumar</span>
+          </p>
+          <p className="text-gray-800">
             Tel: <span className="text-gray-500">+91 8292831799</span>
           </p>
-          <p className=" text-gray-800">
-            Email: <span className="text-gray-500">shubhamkumarsingh424@gmail.com</span>
+          <p className="text-gray-800">
+            Email: <span className="text-gray-500">sonukumar8789217@gmail.com</span>
           </p>
 
           <p className="text-gray-500">Careers at Forever</p>

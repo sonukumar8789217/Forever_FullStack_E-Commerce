@@ -65,8 +65,9 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col flex-1 text-gray-600">
+            <li className="mb-2 font-medium text-gray-700">Sonu Kumar</li>
             <li className="mb-2">+91 8292831799</li>
-            <li className="mb-2">shubhamkumarsingh424@gmail.com</li>
+            <li className="mb-2">sonukumar8789217@gmail.com</li>
           </ul>
         </div>
       </div>
